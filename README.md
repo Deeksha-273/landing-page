@@ -1,36 +1,48 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<br />
+<div align="center">
+  <a href="https://your-live-website-link.com">
+    <img src="path/to/your-screenshot.png" alt="Project Screenshot" width="700">
+  </a>
 
-## Getting Started
+  <h3 align="center">✨ My Personal Portfolio & Landing Page</h3>
 
-First, run the development server:
+  <p align="center">
+    A minimal, aesthetic, and high-performance landing page to showcase my work.
+    <br />
+    <a href="https://your-live-website-link.com"><strong>🚀 View Live Demo</strong></a>
+    ·
+    <a href="https://github.com/yourusername/repo/issues">Report Bug</a>
+  </p>
+</div>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 💡 About The Project
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+This repository houses the source code for my personal portfolio. I built this to not only showcase my projects but to serve as a digital business card that reflects my personality: **clean code, creative design, and user-centric thinking.**
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+It acts as the central hub for my freelance services, connecting my development work with potential clients.
 
-## Learn More
+#### Key Features
+* **Aesthetic UI:** Focused on typography, whitespace, and micro-interactions.
+* **Fully Responsive:** optimized for mobile, tablet, and desktop.
+* **Performance First:** scoring 90+ on Google Lighthouse.
+* **Dark/Light Mode:** (If applicable)
 
-To learn more about Next.js, take a look at the following resources:
+### 🛠️ Built With
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+* ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+* ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+* ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+* **Vercel** (for Deployment)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### 📂 Directory Structure
 
-## Deploy on Vercel
+I believe in clean architecture. Here is how the project is organized:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+```text
+/src
+├── components  # Reusable UI elements (Buttons, Cards, Hero)
+├── assets      # Images and icons
+├── styles      # CSS / Tailwind configurations
+└── pages       # Main route views
