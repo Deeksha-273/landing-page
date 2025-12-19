@@ -27,7 +27,6 @@ It acts as the central hub for my freelance services, connecting my development 
 * **Aesthetic UI:** Focused on typography, whitespace, and micro-interactions.
 * **Fully Responsive:** optimized for mobile, tablet, and desktop.
 * **Performance First:** scoring 90+ on Google Lighthouse.
-* **Dark/Light Mode:** (If applicable)
 
 ### 🛠️ Built With
 
